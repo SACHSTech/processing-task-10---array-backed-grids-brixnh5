@@ -21,7 +21,6 @@ public class Sketch extends PApplet {
 
   public void setup() {
     background(0);
-    intGrid[1][5] = 1;
   }
 
   public void draw() {
