@@ -2,7 +2,8 @@
     "java.project.referencedLibraries": {
         "include": [
             "lib/**/*.jar",
-            "/Users/ericfabroa/JARs/mac_core.jar"
+            "/Users/ericfabroa/JARs/mac_core.jar",
+            "c:\\Users\\firel\\Downloads\\core.jar"
         ],
         "exclude": [
             "lib/repl_core.jar"
